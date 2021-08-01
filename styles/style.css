@@ -1,0 +1,66 @@
+html {
+  font-size: 10px;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #F0AAB6;
+
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #F0C6CD;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0 0 0;
+  color: black;
+}
+H2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0
+  color: black;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  padding: 0 20px 20px 0;
+}
+a {
+Font-size: 30px;
+text-align: center;
+padding: 10px 10px 10px 10px;
+color: black;
+
+}
+a:hover {
+  font-size: 31px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: purple;
+}
+
+figcaption {
+ font-size: 12px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
